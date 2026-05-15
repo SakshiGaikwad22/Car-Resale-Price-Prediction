@@ -51,23 +51,14 @@ The project includes:
 ```text
 Car-Resale-Price-Prediction
 │
-├── data
-│   └── car_data.csv
-│
-├── notebooks
-│   ├── eda_oop_analysis.py
-│   └── ml_price_prediction.py
-│
-├── dashboard
-│   └── Car_Resale_Dashboard.pbix
-│
-├── screenshots
-│   ├── dashboard1.png
-│   └── dashboard2.png
-│
-├── requirements.txt
+├── CarResaleBI.pbix
+├── CarResaleEDA.ipynb
+├── MLCarResale.ipynb
 ├── README.md
-└── .gitignore
+├── Screenshot 2026-05-15 224606.png
+├── Screenshot 2026-05-15 224653.png
+└── daTA.csv
+
 ```
 
 ---
@@ -106,15 +97,13 @@ The interactive Power BI dashboard provides:
 
 ## Main Dashboard
 
-![Dashboard](screenshots/dashboard1.png)
+![Dashboard](dashboard_main.png)
 
 ---
 
 ## Filtered Dashboard
 
-![Dashboard](screenshots/dashboard2.png)
-
----
+![Dashboard](dashboard_filtered.png)
 
 # Machine Learning Models 🤖
 
